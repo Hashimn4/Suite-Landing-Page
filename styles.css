@@ -3,7 +3,8 @@ body {
 }
 
 .header {
-    padding: 15px 15px 0 15px;
+    width: 90%;
+    margin: 15px auto;
 }
 
 .nav {
@@ -31,4 +32,87 @@ body {
 
 .nav__button p {
     font-weight: bold;
+}
+
+.main {
+    margin-top: 70px;
+}
+
+.cta {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.cta__info {
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+}
+
+.cta__info-headline {
+    font-size: 2.5rem;
+}
+
+span {
+    font-weight: bold;
+}
+
+.solution {
+    border-top: 2px solid black;
+    border-radius: 50%;
+    padding-top: 15px;
+}
+
+.cta__info-button {
+    border: 1px solid black;
+    padding: 15px 25px;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    align-self: flex-start;
+
+    border-radius: 5px;
+   
+}
+
+.cta__info-button:hover {
+    cursor: pointer;
+    background-color: transparent;
+    color: black;
+}
+
+.cta__image {
+    width: 100%;
+}
+
+.cta__image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.cta__stats {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 25px;
+}
+
+.stats__numbers {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.number {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.description {
+    text-transform: uppercase;
 }
