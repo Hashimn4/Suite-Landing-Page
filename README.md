@@ -29,3 +29,19 @@ My goal for this project was to take a design of a landing page and make it into
 
 </div>
 
+## Desktop
+
+
+<div align="center">
+
+
+
+
+  <img src = "https://user-images.githubusercontent.com/61445847/233518788-46461b5b-0b55-4d4b-9cc1-b8575ad053c4.jpg">
+
+
+  <img src = "https://user-images.githubusercontent.com/61445847/233519041-905f7892-6420-4517-bb98-63a5fe192190.jpg">
+  
+
+</div>
+
